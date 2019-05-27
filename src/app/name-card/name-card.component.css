@@ -1,0 +1,14 @@
+.name-card__content-left{
+  z-index: -1;
+}
+.name-card{
+  position: relative;
+}
+.name-card__content-right{
+  position: absolute;
+  top: 0px;
+  left: 236px;
+  font-family:sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
